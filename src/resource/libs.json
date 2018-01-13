@@ -1,0 +1,37 @@
+[
+    {
+        "name": "COCOAPODS",
+        "url": "https://cocoapods.org/",
+        "summary": "包管理工具",
+        "bgcolor": "#330602",
+        "textcolor": "#E73225"
+    },
+    {
+        "name": "React Native",
+        "url": "https://facebook.github.io/react-native/",
+        "summary": "使用JavaScript写Native应用",
+        "bgcolor": "#48A3CD",
+        "textcolor": "#FFFFFF"
+    },
+    {
+        "name": "AFNetworking",
+        "url": "https://github.com/AFNetworking/AFNetworking",
+        "summary": "便捷网络请求",
+        "bgcolor": "#E16D38",
+        "textcolor": "#000000"
+    },
+    {
+        "name": "IQKeyboardManager",
+        "url": "https://github.com/hackiftekhar/IQKeyboardManager",
+        "summary": "智能键盘",
+        "bgcolor": "#1564B2",
+        "textcolor": "#FFFFFF"
+    },
+    {
+        "name": "SDWebImage",
+        "url": "https://github.com/rs/SDWebImage",
+        "summary": "图片缓存",
+        "bgcolor": "#FFFFFF",
+        "textcolor": "#EC6247"
+    }
+]

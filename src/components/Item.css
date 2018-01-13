@@ -1,0 +1,13 @@
+.item {
+    height: 150px;
+    padding: 20px;
+}
+
+.item-title {
+    margin-top: 40px;
+}
+
+.item-summary {
+    margin-top: 20px;
+    opacity: 0.6;
+}
